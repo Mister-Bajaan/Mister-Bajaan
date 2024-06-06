@@ -24,37 +24,37 @@
 <p align="left">
     <a href="https://twitter.com/mister_bajaan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="mister_bajaan" height="30" width="40" /></a>
+            alt="mister_bajaan" height="40" width="40" /></a>
     <a href="https://instagram.com/@papa_seydu_bajaan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="@papa_seydu_bajaan" height="30" width="40" /></a>
+            alt="@papa_seydu_bajaan" height="40" width="40" /></a>
     <a href="https://discord.gg/misterbajaan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="misterbajaan" height="30" width="40" /></a>
+            alt="misterbajaan" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">🛠 Technologies & Tools</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=github" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=html" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=css" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=js" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=py" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=express" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=npm" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=django" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=ai" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=photoshop" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=latex" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=notion" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=arduino" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=github" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=html" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=css" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=js" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=py" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=express" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=npm" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=django" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=mongodb" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=figma" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=postman" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=ai" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=photoshop" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=linux" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=ubuntu" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=latex" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=notion" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=arduino" width="53" height="53" />
 </div>
 
