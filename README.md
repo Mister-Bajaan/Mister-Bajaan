@@ -20,7 +20,7 @@
 
 <br><br><br>
 
-<h2 align="left">:link: Connect with me:</h2>
+<h2 align="left">🖇️ Connect with me:</h2>
 <p align="left">
     <a href="https://twitter.com/mister_bajaan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
