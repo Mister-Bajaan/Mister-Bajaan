@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm El Hadji Seydou Badiane</h1>
 <h3 align="center">Full stack developer Junior,</h3>
 
-<p align="left"> <a href="https://twitter.com/mister_bajaan" target="blank"><img
-            src="https://img.shields.io/twitter/follow/mister_bajaan?logo=twitter&style=for-the-badge"
-            alt="mister_bajaan" /></a> </p>
+<p align="left">
+    <a href="https://twitter.com/mister_bajaan" target="blank">
+        <img src="https://img.shields.io/twitter/follow/mister_bajaan?logo=twitter&style=for-the-badge"
+            alt="mister_bajaan" />
+    </a>
+</p>
 
-<div display = "flex" >
-    <div>
-        - 🌱 I’m currently learning **Next.JS, Bun.js, React.Js, React native**
 
-        - 💬 Ask me about **JavaScript, Python, Arduino**
+- 🌱 I’m currently learning **Next.JS, Bun.js, React.Js, React native**
 
-        - 📫 How to reach me **pvpaaseydoubadiane@gmail.com**
+- 💬 Ask me about **JavaScript, Python, Arduino**
 
-        - ⚡ Fun fact **The One Piece is real..>>>**
-    </div>
+- 📫 How to reach me **pvpaaseydoubadiane@gmail.com**
 
-    <div>
-        <img align="right" alt="coding" width="400"
-            src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif">
-    </div>
+- ⚡ Fun fact **The One Piece is real..>>>**
+
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif">
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -34,6 +32,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="misterbajaan" height="30" width="40" /></a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
