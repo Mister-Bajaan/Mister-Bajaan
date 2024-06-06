@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm El Hadji Seydou Badiane</h1>
 <h3 align="center">Full stack developer Junior,</h3>
-- 🌱 I’m currently learning **Next.JS, Bun.js, React.Js, React native**
+<div align="left">
+    - 🌱 I’m currently learning **Next.JS, Bun.js, React.Js, React native**
 
-- 💬 Ask me about **JavaScript, Python, Arduino**
+    - 💬 Ask me about **JavaScript, Python, Arduino**
 
-- 📫 How to reach me **pvpaaseydoubadiane@gmail.com**
+    - 📫 How to reach me **pvpaaseydoubadiane@gmail.com**
 
-- ⚡ Fun fact **The One Piece is real..>>>**
+    - ⚡ Fun fact **The One Piece is real..>>>**
+</div>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 <p align="left">
