@@ -8,19 +8,19 @@
     </a>
 </p>
 
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 - 🌱 I’m currently learning **Next.JS, Bun.js, React.Js, React native**
 
-- 💬 Ask me about **JavaScript, Python, Arduino**
+- 💬 Ask me about **JavaScript, Python, Arduino and One Piece**
 
 - 📫 How to reach me **pvpaaseydoubadiane@gmail.com**
 
-- ⚡ Fun fact **The One Piece is real..>>>**
+- ⚡ Real fact **The One Piece is real >>> :lotus_position_man:**
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif">
-</div>
+<br><br><br>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">:link: Connect with me:</h2>
 <p align="left">
     <a href="https://twitter.com/mister_bajaan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -33,54 +33,28 @@
             alt="misterbajaan" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h2 align="left">🛠 Technologies & Tools</h2>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=github" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=html" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=css" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=js" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=py" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=express" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=npm" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=django" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=ai" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=photoshop" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=latex" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=notion" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=arduino" width="55" height="55" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" /> </a> <a href="https://www.arduino.cc/" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40"
-            height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
-            height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-            height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-        target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-            width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> </p>
-
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mister-bajaan&show_icons=true&locale=en&layout=compact"
-        alt="mister-bajaan" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=mister-bajaan&show_icons=true&locale=en"
-        alt="mister-bajaan" /></p>
