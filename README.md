@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
-- 🌱 I’m currently learning **Next.JS, Bun.js, React.Js, React native**
+- 🌱 I’m currently learning **Next.JS,TypeScript, React.Js, React native**
 
 - 💬 Ask me about **JavaScript, Python, Arduino and One Piece**
 
