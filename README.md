@@ -39,13 +39,17 @@
     <img src="https://skillicons.dev/icons?i=html" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=css" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=js" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=nextjs" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=ts" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=py" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=nodejs" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=express" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=npm" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=pnpm" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=django" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=mongodb" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=mysql" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=tailwindcss" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=figma" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=vscode" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=postman" width="53" height="53" />
@@ -56,5 +60,6 @@
     <img src="https://skillicons.dev/icons?i=latex" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=notion" width="53" height="53" />
     <img src="https://skillicons.dev/icons?i=arduino" width="53" height="53" />
+    <img src="https://skillicons.dev/icons?i=md" width="53" height="53" />
 </div>
 
